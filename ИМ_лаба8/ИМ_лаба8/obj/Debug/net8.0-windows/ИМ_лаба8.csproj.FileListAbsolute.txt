@@ -1,0 +1,16 @@
+C:\Users\slava\source\repos\ИМ_лаба8\ИМ_лаба8\bin\Debug\net8.0-windows\ИМ_лаба8.exe
+C:\Users\slava\source\repos\ИМ_лаба8\ИМ_лаба8\bin\Debug\net8.0-windows\ИМ_лаба8.deps.json
+C:\Users\slava\source\repos\ИМ_лаба8\ИМ_лаба8\bin\Debug\net8.0-windows\ИМ_лаба8.runtimeconfig.json
+C:\Users\slava\source\repos\ИМ_лаба8\ИМ_лаба8\bin\Debug\net8.0-windows\ИМ_лаба8.dll
+C:\Users\slava\source\repos\ИМ_лаба8\ИМ_лаба8\bin\Debug\net8.0-windows\ИМ_лаба8.pdb
+C:\Users\slava\source\repos\ИМ_лаба8\ИМ_лаба8\obj\Debug\net8.0-windows\ИМ_лаба8.Form1.resources
+C:\Users\slava\source\repos\ИМ_лаба8\ИМ_лаба8\obj\Debug\net8.0-windows\ИМ_лаба8.csproj.GenerateResource.cache
+C:\Users\slava\source\repos\ИМ_лаба8\ИМ_лаба8\obj\Debug\net8.0-windows\ИМ_лаба8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slava\source\repos\ИМ_лаба8\ИМ_лаба8\obj\Debug\net8.0-windows\ИМ_лаба8.AssemblyInfoInputs.cache
+C:\Users\slava\source\repos\ИМ_лаба8\ИМ_лаба8\obj\Debug\net8.0-windows\ИМ_лаба8.AssemblyInfo.cs
+C:\Users\slava\source\repos\ИМ_лаба8\ИМ_лаба8\obj\Debug\net8.0-windows\ИМ_лаба8.csproj.CoreCompileInputs.cache
+C:\Users\slava\source\repos\ИМ_лаба8\ИМ_лаба8\obj\Debug\net8.0-windows\ИМ_лаба8.dll
+C:\Users\slava\source\repos\ИМ_лаба8\ИМ_лаба8\obj\Debug\net8.0-windows\refint\ИМ_лаба8.dll
+C:\Users\slava\source\repos\ИМ_лаба8\ИМ_лаба8\obj\Debug\net8.0-windows\ИМ_лаба8.pdb
+C:\Users\slava\source\repos\ИМ_лаба8\ИМ_лаба8\obj\Debug\net8.0-windows\ИМ_лаба8.genruntimeconfig.cache
+C:\Users\slava\source\repos\ИМ_лаба8\ИМ_лаба8\obj\Debug\net8.0-windows\ref\ИМ_лаба8.dll
